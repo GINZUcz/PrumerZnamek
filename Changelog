@@ -1,0 +1,16 @@
+1.0
+- vydání aplikace
+2.0
+- kompletní předělávka aplikace
+2.1.0
+- Změněny barvy aplikace 
+- přidána funkce aktualizace v aplikaci 
+- přidáno nastavení
+- aktualizována sekce O aplikaci
+- opraveny chyby
+2.2.0
+- změněny barvy u tlačítek
+- přidány informace o aktualizacích (tlačítko Verze)
+- změněny animace při otevíraní Nastavení
+- změněn splash screen
+- minimální android verze musí být nyní min. 5.0
