@@ -14,3 +14,7 @@
 - změněny animace při otevíraní Nastavení
 - změněn splash screen
 - minimální android verze musí být nyní min. 5.0
+2.2.1
+- přidáno poděkování do nastavení
+- oprava chyb při zadávání známky
+- přidáno zobrazení verze aplikace v nastavení
