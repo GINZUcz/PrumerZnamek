@@ -20,3 +20,7 @@
 - přidáno zobrazení verze aplikace v nastavení
 2.2.2
 - oprava chyby (přeskakování čísel)
+2.3.0
+- přidáno pozadí v aplikaci 
+- Text známek se zapisuje doprostřed
+- známka se po vložení do paměti smaže z textového pole 
