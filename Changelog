@@ -24,3 +24,5 @@
 - přidáno pozadí v aplikaci 
 - Text známek se zapisuje doprostřed
 - známka se po vložení do paměti smaže z textového pole 
+2.4.0
+- Přidána funkce Teoretická známka
