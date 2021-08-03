@@ -48,3 +48,7 @@
 2.5.1
 - Upraven text při kontrole aktualizací
 - úprava tlačítka o teoretické známce
+2.5.2
+- opravy chyb
+- změněn error text při zadání větší známky než 5
+- zvětšeno písmo
