@@ -52,3 +52,5 @@
 - opravy chyb
 - změněn error text při zadání větší známky než 5
 - zvětšeno písmo
+2.5.3
+- Přdáno načítání při kontrole aktualizací
